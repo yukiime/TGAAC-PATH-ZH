@@ -1,0 +1,3 @@
+[submodule "dgs_hackfix"]
+	path = dgs_hackfix
+	url = git@github.com:AdmiralCurtiss/dgs_hackfix.git
